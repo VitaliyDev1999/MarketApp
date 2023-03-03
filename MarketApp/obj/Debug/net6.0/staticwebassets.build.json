@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kO8YdcDcUHwkt9KCVhE3s5kppTnxr5pm1BEbJsON9MM=",
+  "Source": "MarketApp.Api",
+  "BasePath": "_content/MarketApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

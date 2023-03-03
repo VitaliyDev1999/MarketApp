@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeMnVrDBNvc7cj8ZHxrDp6pODvbAeB45HwIgP0YkE4JSQKPw0jMq1f/Luk0ntosb782u41nrq/A3wAPjccZQ9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skynet\\source\\repos\\MarketApp\\MarketApp.Application\\MarketApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skynet\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Skynet\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

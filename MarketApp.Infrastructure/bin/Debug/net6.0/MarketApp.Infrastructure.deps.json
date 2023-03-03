@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MarketApp.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MarketApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MarketApp.Infrastructure.dll": {}
+        }
+      },
+      "MarketApp.Domain/1.0.0": {
+        "runtime": {
+          "MarketApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarketApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

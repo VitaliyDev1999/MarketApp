@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MarketApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MarketApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarketApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarketApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MarketApp.Domain/MarketApp.Domain.csproj",
+      "msbuildProject": "../MarketApp.Domain/MarketApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MarketApp.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Skynet\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Skynet\\source\\repos\\MarketApp\\MarketApp.Infrastructure\\MarketApp.Infrastructure.csproj",
+      "projectName": "MarketApp.Infrastructure",
+      "projectPath": "C:\\Users\\Skynet\\source\\repos\\MarketApp\\MarketApp.Infrastructure\\MarketApp.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Skynet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Skynet\\source\\repos\\MarketApp\\MarketApp.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Skynet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Skynet\\source\\repos\\MarketApp\\MarketApp.Domain\\MarketApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\Skynet\\source\\repos\\MarketApp\\MarketApp.Domain\\MarketApp.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

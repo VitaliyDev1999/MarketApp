@@ -1,0 +1,12 @@
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\bin\Debug\net6.0\MarketApp.Domain.deps.json
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\bin\Debug\net6.0\MarketApp.Domain.dll
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\bin\Debug\net6.0\MarketApp.Domain.pdb
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.dll
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\refint\MarketApp.Domain.dll
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\MarketApp.Domain.pdb
+C:\Users\Skynet\source\repos\MarketApp\MarketApp.Domain\obj\Debug\net6.0\ref\MarketApp.Domain.dll
